@@ -1,13 +1,11 @@
 import React from 'react'
-import { MdOutlineVerified } from "react-icons/md";
+// import { MdOutlineVerified } from "react-icons/md";
+
 
 const Pritam = () => {
   return (
-    <div className='pt-20'>
-    <div className='pt-20'>
-    <MdOutlineVerified />
-    <h1>hello</h1>
-    </div>
+    <div className='pt-40 ml-[50%]'>
+<h1 className='text-red-500'>hello</h1>
       
     </div>
   )
