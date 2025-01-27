@@ -26,7 +26,7 @@ const Navbar = () => {
                 {/* Logo */}
                 <div className="flex items-center">
                     <NavLink to="/">
-                        <img src={logo} alt="logo" className="h-9 md:h-12" />
+                        <img src={logo} alt="logo" className=" h-9 md:h-12" />
                     </NavLink>
                 </div>
 
